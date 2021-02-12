@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=x": {"model": "slavicherbs:block/stripped_juniper_log", "x": 90, "y": 90},
+    "axis=y": {"model": "slavicherbs:block/stripped_juniper_log"},
+    "axis=z": {"model": "slavicherbs:block/stripped_juniper_log", "x": 90}
+  }
+}

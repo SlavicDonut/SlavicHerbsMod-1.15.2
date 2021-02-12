@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "slavicherbs:block/juniper_leaves"
+  }
+}

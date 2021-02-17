@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "slavicherbs:block/sandalwood_log_top",
+    "side": "slavicherbs:block/sandalwood_log"
+  }
+}

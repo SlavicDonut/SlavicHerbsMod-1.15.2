@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=x": {"model": "slavicherbs:block/sandalwood_log", "x": 90, "y": 90},
+    "axis=y": {"model": "slavicherbs:block/sandalwood_log"},
+    "axis=z": {"model": "slavicherbs:block/sandalwood_log", "x": 90}
+  }
+}
